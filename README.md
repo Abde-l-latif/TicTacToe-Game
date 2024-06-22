@@ -6,3 +6,6 @@
 
 ## images i work with
 *in Assets folder*
+
+## link
+https://tictactoe-n-0.netlify.app/
